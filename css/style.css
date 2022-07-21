@@ -1,0 +1,19 @@
+/* Syntax 
+    selector
+    #head 
+    .mas-head { property : value}
+    h1
+*/
+
+.mas-head{
+    color: blue;
+    color: rgb(0 , 255 , 0);
+    color: yellow; /*
+        0 => 9 a b c d e f [16]
+    */
+    height: 500px;
+    background-color: #2f2f2f;
+    background-image: url('../images/laptop.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
